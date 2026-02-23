@@ -1,0 +1,681 @@
+{
+  "code": 200,
+  "message": "Menu items fetched successfully",
+  "data": {
+    "menuGroups": [
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "62867510f7029b0010243e64",
+        "name": "HELP",
+        "order": 7
+      }
+    ],
+    "menuCategories": [
+      {
+        "_id": "623172dfdbe2420010de2a2b",
+        "name": "Recipes"
+      },
+      {
+        "_id": "64b6fe4de615eb39f2b65e9f",
+        "name": "Dinner"
+      },
+      {
+        "_id": "64b6fe23e615eb39f2b65a5e",
+        "name": "Lunch"
+      },
+      {
+        "_id": "63320eb6007b6b0010480cad",
+        "name": "Late Night"
+      },
+      {
+        "_id": "6969537651a912b229ba16f5",
+        "name": "Baked 'n' Grams"
+      },
+      {
+        "_id": "6969548177b727b0edc87615",
+        "name": "Midori Late Night"
+      },
+      {
+        "_id": "6969546c51a912b229ba172d",
+        "name": "Midori Lunch/Dinner"
+      },
+      {
+        "_id": "696954f151a912b229ba1890",
+        "name": "Suannai"
+      },
+      {
+        "_id": "62867506f7029b0010243e62",
+        "name": "SCHEDULE"
+      }
+    ],
+    "menuItems": [
+      {
+        "_id": "638f999b80c3c700105aec26",
+        "name": "Bionicos (Sweet Fruit Bowl)",
+        "description": "YWDC Holiday Recipe"
+      },
+      {
+        "_id": "69694bce51a912b229b9eed1",
+        "name": "Lemon Pepper Salmon",
+        "description": "@Maca: Protein Choice of: Fresh Oven Roasted Lemon Pepper Salmon or Eggplant Roulade Filled With Citrus Brown Rice & Quinoa Pilaf. Sides: Roasted Spiced Sweet Potatoes , Braised Greens."
+      },
+      {
+        "_id": "696982bb77b727b0edc92cae",
+        "name": "Bobcat Party Wings",
+        "description": "@Plancha : Protein Choice of Garlic Parmesan Wings (Halal) or Crispy Plant Based Kick'n Tenders with sides of Thunder Crunch Fries. Sauces: BBQ Sauce, Buffalo Sauce, Mango Habanero Sauce, Celery/Carrots, House made Ranch",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983b46fc9b2f9029daa5df6",
+        "name": "Beef Pho",
+        "description": "@Flame : Protein Choice of Beef Pho or Umami Plant Based Pho, Side of Rice Noodles, and Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2025-4/7231-beef-pho.jpg"
+      },
+      {
+        "_id": "6983b54a4f8d3cfe9a8bd3fe",
+        "name": "Shrimp Mac'n Cheese",
+        "description": "@Deux: Choice of Shrimp Mac'n Cheese or Bobcat Mac'n Cheese, sides of Roasted Balsamic Brussel Sprouts, and Max's Artisan Dinner Rolls."
+      },
+      {
+        "_id": "6983b5bd4f8d3cfe9a8bd5dd",
+        "name": "Chicken Tinga Tostadas",
+        "description": "@Carbone : Protein Choice of Chicken Thigh Tinga or Fable Mushroom Tinga With Sides of Fluffy Spanish Rice Pilaf (Peas, Carrots, Corn), Creamy Refried Beans, Corn Tostada Shells and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983b67b4f8d3cfe9a8be299",
+        "name": "Crispy Chicken Tenders",
+        "description": "@Plancha: Protein Choice of Crispy Chicken Tenders or Crispy Plant Based Tenders, Sides: Thunder Crunch Fries, Garlic Herb Butter Toast and Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/8383-shopping.jpeg"
+      },
+      {
+        "_id": "6983b8bc4f8d3cfe9a8bf3b7",
+        "name": "Chicken Tikka Masala",
+        "description": "@Flame: Choice of Chicken Thigh With Rich Creamy Tomato Sauce or Vegetable Korma with  Basmati Rice, Garlic Naan and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983b9434f8d3cfe9a8bf898",
+        "name": "Tuscan Lemon Shrimp Penne",
+        "description": "@Deux : Choice of Shrimp Pasta Parsley-Lemon Butter Sauce With Cherry Tomato, Zucchini, Garlic & Capers (4oz) or Penne  Pasta (4oz) with Zesty Marinara Sauce (4oz). Comes with sides of Steamed Broccoli, Max's Artisan Dinner Rolls.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983b9e14f8d3cfe9a8bff28",
+        "name": "Al Pastor Tacos",
+        "description": "@Carbone : Protein choice of Pork Al Pastor w/ Grilled Pineapple (4oz) or Oyster Mushroom Al Pastor w/ Grilled Pineapple (4oz), with Toppings and Sides of Spanish Rice, Whole Tender Pinto Beans, & Corn Tortillas.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983bc28c9b2f9029daa98fe",
+        "name": "Loaded Baked Potato Bar",
+        "description": "@Plancha : Momma's Chilli Made With Three Beans, Peppers, Onions & Chiles Comes with Sides of Fluffy Baked Potato (5cs), Chopped Smoked (Pork) Bacon, House Made Cheese Sauce and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983c0294f8d3cfe9a8c26e5",
+        "name": "Szechuan Pork Belly",
+        "description": "@Flame: Protein Choice of Szechuan Pork Belly or  Five Spice Tofu & Mushroom Served with  Steamed Rice, Mushroom Stir-Fry, Steamed Veggies, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983c23f4f8d3cfe9a8c4432",
+        "name": "Buddha Grain Bowl",
+        "description": "@Deux : Protein Choice of Harissa Spiced Shrimp or Harissa Spiced Tofu, Sides of Lemon Quinoa & Brown Rice Pilaf, Sauteed Mushroom Medley, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983c6fb4f8d3cfe9a8c55a3",
+        "name": "Chicken Enchiladas",
+        "description": "@Carbone : Protein choice of Chicken Enchiladas  or Cheese Enchiladas (4oz), Green Enchilada Sauce with toppings and sides of Fluffy Spanish Rice Pilaf (Peas, Carrots, Corn) Creamy Refried Beans.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983ca154f8d3cfe9a8c5d4f",
+        "name": "Spicy Sriracha Burger",
+        "description": "@Plancha :Protein Choice of All Beef Patty or Plant Based Impossible Burger on Max's Artisan Burger Buns with Toppings and Thunder Crunch Fries as Side.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983d4dcc9b2f9029daade59",
+        "name": "Creamy Pesto Chicken Pasta",
+        "description": "@Flame : Protein Choice of Chicken Thigh w/Creamy Pesto Pasta or Prima Vera Vegetable w/ Creamy Pesto Pasta with Sides of Max's Artisan Bread Dinner Rolls, and Steamed Broccoli",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983d781c9b2f9029daae6ca",
+        "name": "Salmon Sushi Bake",
+        "description": "@Deux : Protein Choice of Salmon Sushi Bake or Avocado Cucumber Bake.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983d8184f8d3cfe9a8c827f",
+        "name": "Quesabirria Tacos",
+        "description": "@Carbone: Protein Choice of Beef Quesabirria or Fable Mushroom Quesabirria on Corn Tortilla.  Served with Spanish Rice, Refired Beans, Consommé and Toppings."
+      },
+      {
+        "_id": "6983d8a94f8d3cfe9a8c870d",
+        "name": "Fish n' Chips",
+        "description": "@Plancha: Protein Choice of Crispy Battered Cod or Crispy Plant Based Kick'n Tenders  Served with Thunder Crunch Fries, and Sauces.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698608dd4f8d3cfe9a8e4500",
+        "name": "Monday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza, Spicy Hawaiian Pizza (Cubed Ham(Pork), Pineapple & Pickled Jalapeno, Green Onion) and Veggie Lovers Pizza  (Mushroom, Peppers, Onion & Olives).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69860925c9b2f9029dacc1c9",
+        "name": "Mediterranean Citrus Herb Chicken",
+        "description": "@ Macca : Choice of Citrus Herb Chicken Thigh or Grilled Portobello Mushroom. Sides: Citrus Brown Rice & Quinoa Pilaf and, Roasted Spiced Sweet Potatoes"
+      },
+      {
+        "_id": "698609734f8d3cfe9a8e49c5",
+        "name": "Huli Huli Chicken",
+        "description": "@Flame: Max's Artisan Hawaiian Sweet Rolls.  Protein Choice of Huli Huli Chicken With Grilled Pineapple or Huli Huli Plant Based Chicken With Grilled Pineapple, Served with Steamed Rice, Hawaiian Mac Salad and Toppings."
+      },
+      {
+        "_id": "69860a114f8d3cfe9a8e4e94",
+        "name": "Tuscan Lemon Shrimp Penne",
+        "description": "@Deux : Choice of Shrimp Pasta Parsley-Lemon Butter Sauce With Cherry Tomato, Zucchini, Garlic & Capers (4oz) or Penne Pasta (4oz) with Zesty Marinara Sauce (4oz). Comes with sides of Steamed Broccoli, Max's Artisan Dinner Rolls.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69860a95c9b2f9029daccc9b",
+        "name": "Chicken Mole",
+        "description": "@Carbone: Protein Choice of Chicken Mole or Plant Based Chicken Mole Served with Corn Tortillas, Fluffy Spanish Rice Pilaf and Refried Beans and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69860ad4c9b2f9029dacd256",
+        "name": "Bacon Blue Cheese Burger",
+        "description": "@Plancha : Max's Artisan Burger Bun; Protein Choice of All Beef Patty or Plant Based Impossible Patty, with Sides of Crispy Bacon Topper, Blue Cheese Sauce, Thunder Crunch Fries and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69860b1b4f8d3cfe9a8e55d1",
+        "name": "Tuesday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza, Meat Lovers Pizza (Pepperoni, Sausage (Pork), Salami, Ham) and Spicy Veggie Hawaiian Pizza (Pineapple & Pickled Jalapeno).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698893c6c9b2f9029db192d6",
+        "name": "Turkey Taco Salad",
+        "description": "@Maca: Choice of Ground Turkey Taco Meat or Meaty Mushroom, Corn, Chickpea, Sweet Potato & Black Bean Hash. Sides of Wild West Wild Rice Pilaf, Corn Tostada."
+      },
+      {
+        "_id": "69889457c9b2f9029db19678",
+        "name": "Lamb Pita",
+        "description": "@Flame : Warmed Pita Bread, Protein Choice of Lamb Shoulder or Flakey Golden Spanakopita. Comes with  Lemon Pepper Spiced Potatoes\nRoasted Peppers, Tomatoes & Onions, Tzatziki, Hummus, Cucumber Salad (Cucumber, Tomato, Onion, Kalamata Olives, Feta cheese), Pickled Red Onion.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6988951dc9b2f9029db19bd1",
+        "name": "Lemon Herb Baked Cod",
+        "description": "@Deux: Choice of Baked Black Cod Citrus Herb Olive Oil Drizzle or Eggplant Roulade With Wild Rice, Roasted Red Bell Pepper, Kalamata Olives, Mushrooms, Parmesan Cheese on Max's Artisan Dinner Roll.  Sides of Creamy Polenta,  Za'atar Spiced Roasted Kale & Chickpeas, Sauteed Swiss Chard With Lemon & Fennel."
+      },
+      {
+        "_id": "6988959bc9b2f9029db19df8",
+        "name": "Taco Tuesday",
+        "description": "@Carbone :Protein Choice of Ground Beef or Plant Based Meat on Crispy Taco Shells with Sides of Spanish Rice, Refried Beans and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6988977dc9b2f9029db1ab74",
+        "name": "Loaded Tater Tots",
+        "description": "@Plancha : Momma's Chilli Made With Three Beans, Peppers, Onions & Chiles. With Sides of Crispy Golden Tater Tots, House Made Cheese Sauce and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6988982b4f8d3cfe9a90c49e",
+        "name": "Wednesday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza, Spicy Hawaiian Pizza (Cubed Ham(Pork), Pineapple & Pickled Jalapeno, Green Onion) and Veggie Lovers Pizza  (Mushroom, Peppers, Onion & Olives).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6988985fc9b2f9029db1b185",
+        "name": "Penne & Turkey Bolognese",
+        "description": "@Maca: Ground Turkey Bolognese &  Penne Pasta or Prima Vera Vegetable  Pasta With Marinara . Side of Sauteed Seasonal Vegetables."
+      },
+      {
+        "_id": "698898a9c9b2f9029db1b4f3",
+        "name": "Korean Bibimbap Bowl",
+        "description": "@Flame : Protein Choice of Korean Gochujang Beef  (4oz) or Gochujang Crispy Tofu with Sides of Sticky Sushi Rice, Fried Egg and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698899d5c9b2f9029db1bcbf",
+        "name": "Pan Seared Salmon",
+        "description": "@Deux: Protein Choice of Pan Seared Salmon w/Lemon Herb Sauce or Grilled Tofu w/Lemon Herb Sauce with Sides of Creamy Mashed Potatoes, Garlic Green Beans & Max's Artisan Dinner Rolls."
+      },
+      {
+        "_id": "6989da392dc4e4b6a5f2c589",
+        "name": "Carnitas Plate",
+        "description": "@Carbone : Protein Choice of Pork Shoulder Carnitas(4oz) or  Fable Mushroom Carnitas, with Sides of Spanish Rice Pilaf (Peas, Corn, Carrots) (4oz) and Refried Beans (4oz), Corn Tortillas and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989daed2dc4e4b6a5f2d025",
+        "name": "Bobcat Party Wings",
+        "description": "@Plancha : Protein Choice of Garlic Parmesan Party Wings or Crispy Plant Based Kick'n Tenders with sides of Thunder Crunch Fries. Choice of Sauces: BBQ Sauce, Buffalo Sauce, Mango Habanero Sauce, Celery/Carrots, House made Ranch.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989db7b167b56fc2a7f750e",
+        "name": "Thursday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza, Meat Lovers Pizza (Pepperoni, Sausage (Pork), Salami, Ham) and Spicy Veggie Hawaiian Pizza (Pineapple & Pickled Jalapeno).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989dbc2167b56fc2a7f7841",
+        "name": "Five-Spice Smoked Chicken",
+        "description": "@Maca: Proteins: Chicken Thigh Smoked With Five-Spice Maple Glaze or Five-Spice Smoked Mushroom & Sweet Potato. Sides of Fusion Wild Rice & Quinoa Pilaf, Umami Stir-Fried Seasonal Greens."
+      },
+      {
+        "_id": "6989dc21167b56fc2a7f7be6",
+        "name": "Tonkotsu Ramen Bowl",
+        "description": "@Flame : Protein Choice of Pork Belly or Miso Shitake Mushroom Ramen, with Sides of Yakisoba Noodle, Hardboiled Eggs, Bean Sprout, Green Onions, Seaweed Salad, Mushrooms, Roasted Corn.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989dced2dc4e4b6a5f2e207",
+        "name": "Cajun Shrimp Plate",
+        "description": "@Deux : Choice of Cajun Shrimp With Garlic Brown Butter Sauce or Sauteed Cajun Mushroom Medley.  Sides of Creamy Polenta, Maque Choux, Max's Artisan Dinner Rolls.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989dd752dc4e4b6a5f2e8c8",
+        "name": "Ropa Vieja",
+        "description": "@Carbone : Protein Choice of Beef Ropa Vieja or  Fable Mushroom Ropa Vieja, Served with Sides of Cilantro Lime Rice, Whole Tender Black Beans, Tostones, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989dff02dc4e4b6a5f3023f",
+        "name": "Crispy Chicken Tenders",
+        "description": "@Plancha: Protein Choice of Crispy Chicken Tenders or Crispy Plant Based Kick'n Tenders. Sides: Thunder Crunch Fries, Garlic Herb Butter Toast and Toppings."
+      },
+      {
+        "_id": "6989e1092dc4e4b6a5f31a6a",
+        "name": "Friday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza, Spicy Hawaiian Pizza (Cubed Ham(Pork), Pineapple & Pickled Jalapeno, Green Onion) and Veggie Lovers Pizza  (Mushroom, Peppers, Onion & Olives).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989e155167b56fc2a7faef5",
+        "name": "Lemon Pepper Salmon",
+        "description": "@Maca: Protein Choice of: Fresh Oven Roasted Lemon Pepper Salmon or Eggplant Roulade Filled With Citrus Brown Rice & Quinoa Pilaf. Sides: Roasted Spiced Sweet Potatoes , Braised Greens."
+      },
+      {
+        "_id": "6989e1c52dc4e4b6a5f32266",
+        "name": "Beef Lasagna",
+        "description": "@Flame : Lasagna with Protein Choice of Beef Lasagna or Cheese Lasagna, Served  with Max's Artisan Bread Dinner Rolls, Steamed Broccoli and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989e27f2dc4e4b6a5f32603",
+        "name": "Honey Chipotle Shrimp Pasta",
+        "description": "@Deux : Protein Choice of Honey Chipotle Shrimp Alfredo or Penne With Prima Vera Pomodoro with Sides of Max's Artisan Bread Dinner Rolls, and Steamed Broccoli."
+      },
+      {
+        "_id": "6989e387167b56fc2a7fb703",
+        "name": "Grilled Fish Tacos",
+        "description": "@Carbone : Protein Choice of Pan Seared  Rock Cod or Oyster Mushroom Asada with Sides of Cilantro Lime Rice, Refried Beans, Corn Tortillas.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989e4eb167b56fc2a7fc0ae",
+        "name": "Ceviche Bar",
+        "description": "@Deux: Protein Choice of Shrimp Ceviche or Cauliflower & Mushroom Ceviche Served with Tortilla Chips.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989e5ea167b56fc2a7fc881",
+        "name": "Monday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989e677167b56fc2a7fccc2",
+        "name": "Bun Rieu",
+        "description": "@Deux : Protein Choice of Vietnamese Crab Bun Rieu or Veggie Bun Rieu. Served with Side of Rice Noodle and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989f6272dc4e4b6a5f351bf",
+        "name": "Beef Stroganoff",
+        "description": "@Carbone: Protein Choice of Creamy Beef Stroganoff  Served with Garlic Bread, Steamed Broccoli, Mixed Salad W/ Cranberry & Orange Vinaigrette."
+      },
+      {
+        "_id": "6989f855167b56fc2a801970",
+        "name": "Winner, winner! Chicken Dinner!",
+        "description": "@Plancha: Protein Choice of Crispy Chicken Tenders or Baked Veggie Mac & Cheese. Sides of Steamed Broccoli, Lemon Greek Salad and Toppings."
+      },
+      {
+        "_id": "6989f9f3167b56fc2a8023d5",
+        "name": "Tuesday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989fb232dc4e4b6a5f36b53",
+        "name": "Chickpea Curry",
+        "description": "@Deux : Petit Naan, Spicy Chickpea Curry(4oz) With Sides of Butter Paneer, Dal (Lentils), Chitranna Rice and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6989ff6f167b56fc2a804c56",
+        "name": "Chili Cheese Burgers",
+        "description": "@Plancha : Protein Choice of All Beef Patty or Black Bean Burger on Max's Cheddar & Onion Bun Served with Thunder Crunch Fries, Vegetarian Chili and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a08da2dc4e4b6a5f390e5",
+        "name": "Wednesday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a09262dc4e4b6a5f39489",
+        "name": "Salmon Teriyaki",
+        "description": "@Deux : Salmon Teriyaki (4oz)  with Sides of Stir Fry Veggies (4oz) Jasmine Rice (4oz), Chicken Potstickers and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a0ac62dc4e4b6a5f3a1e7",
+        "name": "Bun Thit Nuong",
+        "description": "@Carbone : Protein Choice of Grilled Beef in Savory Sauce or Grilled Tofu in Savory Sauce. Served with Side of Rice Noodles, Veggie Spring Rolls and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a31a62dc4e4b6a5f3f23b",
+        "name": "Garlic Wing Goodness",
+        "description": "@Plancha : Protein Choice of Garlic Parmesan Wings or Garlic & Herb Plant Based Tenders with Sides of Garlic Fries (4oz), Sliced Cucumbers House made Ranch.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a32e62dc4e4b6a5f3f805",
+        "name": "Thursday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a33312dc4e4b6a5f3faa9",
+        "name": "Avocado Toast Brekky",
+        "description": "@Deux: Max's Artisan Sourdough Bread Served with House made Avocado Spread, Shrimp protein upon request, Creamy Scrambled Egg Served with Sides of Steamed Butter Potatoes, Garbanzo Bean Salad, Sliced Cucumbers, Micro Greens.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a33d02dc4e4b6a5f400f2",
+        "name": "Tacos Suadero",
+        "description": "@Carbone : Protein Choice of Tacos Suadero (4oz) or Tacos Des Hongos(4oz), 4.5\" Corn Tortillas Served with  Roasted Corn and Poblano Rice, Pinto Beans, Roasted Corn on the Cob, Sautéed Onions and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a37b2167b56fc2a80cff8",
+        "name": "Pepper Pork Panini",
+        "description": "@Plancha: Slow Braised Pork Sandwich w/ Roasted Poblano & Caramelized Onion Sauce With Sides of Seasoned Straight Cut Fries, Steamed Seasonal Vegetable,House Salad on Max's Soft French Roll."
+      },
+      {
+        "_id": "698a3a092dc4e4b6a5f4293e",
+        "name": "Friday Pizza",
+        "description": "π Pizza : Pizza Choice of Pepperoni Pizza or Four Cheese Pizza",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a3a64167b56fc2a80e0ab",
+        "name": "Sushi Bake Bowl",
+        "description": "@Deux : Protein Choice of Sushi Bake  (4oz) or Tofu Bake  (4oz) with Steamed Seasonal Vegetables (4oz) and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a3d842dc4e4b6a5f44117",
+        "name": "Hibachi",
+        "description": "@Carbone: Protein Choice of Shrimp, Chicken or Vegetable Chow Mein, White Rice Served with Napa Cabbage, Bean Sprout, Mushroom, Bok Choy, Green Onions, Spicy Teriyaki or Plain Teriyaki Sauce, Veggie Spring Rolls.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "698a3e292dc4e4b6a5f449dc",
+        "name": "Tuna Melt",
+        "description": "@Plancha: Protein Choice of Albacore Tuna Melt With Sides of Pickles Spears, Macaroni Salad, Cucumber Slices Served in Max's Artisan Sourdough Bread.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6963f21751a912b229ab745d",
+        "name": "Wednesday Pizza",
+        "description": "𝝅 (Pizza) : Pizza Choice of Pepperoni Pizza, Four Cheese Pizza or Spicy Hawaii'n  (Pineapple, Ham, Pickled Jalapeno) or Veggie Lovers  (Mushroom, Peppers, Onion & Olives)",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/3065-daily-pizza.png"
+      },
+      {
+        "_id": "6983cf264f8d3cfe9a8c6dd7",
+        "name": "Mommas Calabasitas Con Puerco",
+        "description": "@Carbone : Protein Choice of Mommas Calabasitas Con Puerco (Pork Braised in Red Sauce with Onions, Squash & Peppers)  or Mommas Calabasitas en Salsa Roja (Squash/Zucchini, Onions & Peppers in Red Sauce). Served with Sides of Fluffy Spanish Rice Pilaf (Peas, Carrots, Corn), Creamy Refried Black Beans, Corn Tortillas and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6983ce804f8d3cfe9a8c6a3b",
+        "name": "Garlic-Ginger Miso Glazed Salmon",
+        "description": "@Deux: Protein Choice of Garlic-Ginger Miso Glazed Salmon\nor Garlic-Ginger Miso Glazed Sticky Tofu, Sides of Fusion Barley & Wild Rice Pilaf or Gochujang Stir-Fried Greens",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/8826-chatgpt-image-jan-12-2026-12_25_20-pm.png"
+      },
+      {
+        "_id": "6983cac3c9b2f9029daacf44",
+        "name": "Greek Chicken Pita",
+        "description": "@Flame : Warmed Pita Bread, Protein Choice of Greek Chicken Thigh or Crispy Falafel Bites  Comes with  Lemon Pepper Spiced Potatoes\nRoasted Peppers, Tomatoes & Onions, Tzatziki, Hummus, Cucumber Salad (Cucumber, Tomato, Onion, Kalamata Olives, Feta cheese), Pickled Red Onion",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6965661777b727b0edc25a67",
+        "name": "Turkey Taco Salad",
+        "description": "@Maca: Ground Turkey Taco or Meaty Mushroom, Corn, Chickpea, Sweet Potato & Black Bean Hash. Side: Wild West Wild Rice Pilaf, Corn Tostada."
+      },
+      {
+        "_id": "6969724f51a912b229ba96e1",
+        "name": "Five-Spice Smoked Chicken",
+        "description": "@Maca: Proteins: Chicken Thigh (Halal) Smoked With Five-Spice Maple Glazeor Five-Spice Smoked Mushroom & Sweet Potato. Sides: Fusion Wild Rice & Quinoa Pilaf, Umami Stir-Fried Seasonal Greens."
+      },
+      {
+        "_id": "6963f2aa51a912b229ab765e",
+        "name": "Tuesday Pizza",
+        "description": "𝝅 (Pizza) : Pizza Choice of Pepperoni Pizza, Four Cheese Pizza or Meat Lovers (Pepperoni, Sausage (Pork), Salami, Ham) or Spicy Veggie Hawaiian (Pineapple & Pickled Jalapeno)",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/8611-daily-pizza.png"
+      },
+      {
+        "_id": "6963f2b551a912b229ab77d0",
+        "name": "Thursday Pizza",
+        "description": "𝝅 (Pizza) : Pizza Choice of Pepperoni Pizza, Four Cheese Pizza or Meat Lovers (Pepperoni, Sausage (Pork), Salami, Ham) or Spicy Veggie Hawaiian (Pineapple & Pickled Jalapeno)",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/8611-daily-pizza.png"
+      },
+      {
+        "_id": "696bc97751a912b229bf49c1",
+        "name": "BAKED'n'GRAMS 1",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc97251a912b229bf496c",
+        "name": "BAKED'n'GRAMS 2",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc96c51a912b229bf4917",
+        "name": "BAKED'n'GRAMS 3",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc92a77b727b0edcd0dd6",
+        "name": "BAKED'n'GRAMS 1",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc92751a912b229bf4859",
+        "name": "BAKED'n'GRAMS 2",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc92351a912b229bf4804",
+        "name": "BAKED'n'GRAMS 3",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc39077b727b0edccb3ba",
+        "name": "BAKED'n'GRAMS 1",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc38d51a912b229bf179d",
+        "name": "BAKED'n'GRAMS 2",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bc38851a912b229bf1748",
+        "name": "BAKED'n'GRAMS 3",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bbb5577b727b0edcc940b",
+        "name": "BAKED'n'GRAMS 1",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bbb5077b727b0edcc93b6",
+        "name": "BAKED'n'GRAMS 2",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bbb4b77b727b0edcc9361",
+        "name": "BAKED'n'GRAMS 3",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bb95577b727b0edcc8a2a",
+        "name": "BAKED'n'GRAMS 1",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bb93c77b727b0edcc89a6",
+        "name": "BAKED'n'GRAMS 2",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bb81c77b727b0edcc83e7",
+        "name": "BAKED'n'GRAMS 3",
+        "description": "Choice of Staples and Special Of The Day"
+      },
+      {
+        "_id": "696bac1a51a912b229be9845",
+        "name": "Salads",
+        "description": "@Midori: Choice of Salads: Green Salad (Spring Mix, Halved Cherry Tomatoes, Diced Onion, Cucumbers), Ceasar Salad (Romaine, Croutons, Shaved Parmesan. Comes with Overnight Oats & Fruit.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3578-yogurt-selections.png"
+      },
+      {
+        "_id": "696bab2977b727b0edcc1d99",
+        "name": "Yogurt",
+        "description": "@Midori: Choice of Yogurts: Straus Organic Vanilla Yogurt, Greek Yogurt, Dairy Free Oat milk Yogurt, Peach Yogurt, Strawberry Yogurt;   Comes with 2 groups of Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3578-yogurt-selections.png"
+      },
+      {
+        "_id": "696baa8851a912b229be8d55",
+        "name": "Deli",
+        "description": "@Midori : Choice of Protein, with Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3155-deli-bar.png"
+      },
+      {
+        "_id": "696a67f877b727b0edcaf431",
+        "name": "Oil & Vinegar",
+        "description": "@ Midori :  Selection of Oil and Vinegar.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-1/3936-dressings.png"
+      },
+      {
+        "_id": "696a670c51a912b229bc9ca8",
+        "name": "Dressings",
+        "description": "@ Midori :  Selection of Dressings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-1/3936-dressings.png"
+      },
+      {
+        "_id": "696a631b77b727b0edcae937",
+        "name": "Pasta Salad",
+        "description": "@ Midori : Choice of Salads Ham Pasta, Cilantro Pesto and Potato Salads.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/6382-salad-bar.png"
+      },
+      {
+        "_id": "696a5e8c51a912b229bc84e4",
+        "name": "Midori",
+        "description": "@ Midori :  Selection of Greens and Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-1/3590-veggies.png"
+      },
+      {
+        "_id": "696a566151a912b229bc4e24",
+        "name": "Charcuterie Board",
+        "description": "@Suannai : Choice of Protein, with Toppings and Whole or Cut Fruit Options.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3155-deli-bar.png"
+      },
+      {
+        "_id": "696a535d51a912b229bc3866",
+        "name": "Deli Bar",
+        "description": "@Suannai : Choice of Protein, with Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3155-deli-bar.png"
+      },
+      {
+        "_id": "696a4c2677b727b0edca5175",
+        "name": "Yogurt Bar",
+        "description": "@Suannai: Choice of Yogurts: Straus Organic Vanilla Yogurt, Greek Yogurt, Dairy Free Oat milk Yogurt, Peach Yogurt, Strawberry Yogurt;   Comes with 2 groups of Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2023-12/3578-yogurt-selections.png"
+      },
+      {
+        "_id": "630d171cfca41500108ce622",
+        "name": "CLICK HERE FOR YWDC Schedule",
+        "description": "YWDC IS OPEN 5 Days  a week (Mon-Fri) and serving menus for Lunch, Dinner & Late Night Service..",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-8/4030-screen-shot-2022-08-29-at-124958-pm.png"
+      },
+      {
+        "_id": "6969de0677b727b0edca271e",
+        "name": "Oatly Chicken Pesto Alfredo",
+        "description": "@Maca: Protein Choice of Chicken or Primavera Vegetables with Penne Pasta (GF) In a Creamy Plant Based Pesto Alfredo Sauce.  Served with Sauteed Seasonal Vegetables"
+      },
+      {
+        "_id": "6963f76777b727b0edb94e58",
+        "name": "BBQ Chicken Plate",
+        "description": "@Maca: Protein Coice of Smoked Chicken Thigh With Tangy BBQ Sauce or Portobello Mushroom With Tangy BBQ Sauce, with Brown Rice , Quinoa Pilaf  and Sweet Potato Puree",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/5501-k_photo_recipe-ramp-up_2022-05-grilled-portabello-mushrooms_kitchnaprilkitchnapril5110-2-1.jpeg"
+      },
+      {
+        "_id": "6963f21b51a912b229ab7549",
+        "name": "Friday Pizza",
+        "description": "𝝅 (Pizza) : Pizza Choice of Pepperoni Pizza, Four Cheese Pizza or Spicy Hawaii'n  (Pineapple, Ham, Pickled Jalapeno) or Veggie Lovers  (Mushroom, Peppers, Onion & Olives)",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/3065-daily-pizza.png"
+      },
+      {
+        "_id": "6963f1a751a912b229ab724a",
+        "name": "Monday Pizza",
+        "description": "𝝅 (Pizza) : Pizza Choice of Pepperoni Pizza, Four Cheese Pizza or Spicy Hawaii'n  (Pineapple, Ham, Pickled Jalapeno) or Veggie Lovers  (Mushroom, Peppers, Onion & Olives)",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/3065-daily-pizza.png"
+      }
+    ],
+    "location": {}
+  },
+  "nutritionServiceStatus": true
+}

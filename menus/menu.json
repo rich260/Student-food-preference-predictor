@@ -1,0 +1,788 @@
+{
+  "code": 200,
+  "message": "Menu items fetched successfully",
+  "data": {
+    "menuGroups": [
+      {
+        "_id": "61bd808b5f2f930010bb6a7a",
+        "name": "SUNDAY",
+        "order": 0
+      },
+      {
+        "_id": "61bd80908b34640010e194b3",
+        "name": "MONDAY",
+        "order": 1
+      },
+      {
+        "_id": "61bd80ab5f2f930010bb6a7d",
+        "name": "TUESDAY",
+        "order": 2
+      },
+      {
+        "_id": "61bd80b08b34640010e194b4",
+        "name": "WEDNESDAY",
+        "order": 3
+      },
+      {
+        "_id": "61bd80b55f2f930010bb6a7e",
+        "name": "THURSDAY",
+        "order": 4
+      },
+      {
+        "_id": "61bd80ba5f2f930010bb6a7f",
+        "name": "FRIDAY",
+        "order": 5
+      },
+      {
+        "_id": "61bd80bf8b34640010e194b6",
+        "name": "SATURDAY",
+        "order": 6
+      },
+      {
+        "_id": "62867510f7029b0010243e64",
+        "name": "HELP",
+        "order": 7
+      }
+    ],
+    "menuCategories": [
+      {
+        "_id": "61bd80d68b34640010e194b8",
+        "name": "Breakfast"
+      },
+      {
+        "_id": "61bd80cc5f2f930010bb6a80",
+        "name": "Dinner"
+      },
+      {
+        "_id": "61bd80d05f2f930010bb6a81",
+        "name": "Lunch"
+      },
+      {
+        "_id": "61ed97b39be79300147d3d06",
+        "name": "CG Lunch & Dinner"
+      },
+      {
+        "_id": "62d9c7c26c04ea00104859c7",
+        "name": "Bakery"
+      },
+      {
+        "_id": "62867506f7029b0010243e62",
+        "name": "SCHEDULE"
+      },
+      {
+        "_id": "61ed885a9be79300147d3898",
+        "name": "FoG Lunch & Dinner"
+      },
+      {
+        "_id": "62daecc36c04ea001048a55d",
+        "name": "FoG Breakfast"
+      }
+    ],
+    "menuItems": [
+      {
+        "_id": "697bfed0f9f5653cd59d250c",
+        "name": "Spanish Tortilla (Omlet)",
+        "description": "@Cascabel: Spanish Tortilla Omelette with Diced potato, peppers, onions, eggs & cheese served with Sauteed Farmers Vegetable Blend and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bfacc61d0f54cdfae548c",
+        "name": "Breakfast Platter",
+        "description": "@RUFUS GRILL : Protein Choice of Halal Chicken Sausage, Tofu Scramble, Scrambled Eggs, Vegetarian Breakfast Sausage or Farmers Blend Vegetable Scramble. Sides of Breakfast Veggies , Hash Brown and Waffles",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bf7cdf9f5653cd59d0c2c",
+        "name": "Huevos A La Mexicana",
+        "description": "@Cascabel: Flour Tortilla, Protein choice of Chicken Chili Verde,  Chick-in Chili Verde, or Scrambled Eggs, with Refried Beans, Roasted Breakfast Potatoes and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bf40bf9f5653cd59cfdb4",
+        "name": "Indian Burrito",
+        "description": "@Rufus: Flour Tortilla, Protein choice of Halal Chicken Sausage links or E=Scrambled Eggs with  Curry Mashed Potato, Indian roasted cauliflower, Roasted Chickpeas and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bf2d7f9f5653cd59cf9cf",
+        "name": "Chilaquiles",
+        "description": "@Cascabel: Protein choice of Chicken Chilaquiles or Vegetarian Chilaquiles, with Scrambled Eggs, Refried Beans,and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bf00a61d0f54cdfae37eb",
+        "name": "English Breakfast",
+        "description": "@RUFUS GRILL : Protein Choice of English Brats or Scrambled Eggs (4oz).  Sides of Kale and Tofu Scramble , English Baked Beans,                                     Sauteed Mushroom and Tomato, Hash Brown and French Toast",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bc259f9f5653cd59cc2d5",
+        "name": "Molletes plated",
+        "description": "@Cascabel: Bread of the day, Protein choice of Bacon Bits, Scrambled Eggs or Scrambled eggs with Nopales served with Refried Beans and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bbed661d0f54cdfae089b",
+        "name": "Garden Omelet",
+        "description": "@RUFUS GRILL : Protein Choice of Grilled steak, Scrambled Eggs (4oz), Vegetarian Breakfast Sausage or Garden Omelet. Sides of Breakfast Veggies , Hash Brown and Chefs Favorate french Toast Cassarole",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bbc17f9f5653cd59cad21",
+        "name": "Huevos A La Mexicana",
+        "description": "@Cascabel: Flour Tortilla, Protein choice of Huevos A La Mexicana,  Home Made Beef Chorizo, or Tofu Scramble Al La Mexicana with Refried Beans, Roasted Breakfast Potatoes and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bb8d361d0f54cdfadf3a1",
+        "name": "Breakfast Platter",
+        "description": "@RUFUS GRILL : Protein Choice of Hickory Smoked Ham Steaks, Scrambled Eggs (4oz), Vegetarian Breakfast Sausage or Farmers Blend Vegetable Scramble. Sides of Breakfast Veggies , Hash Brown and Waffles",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697bb56461d0f54cdfade09a",
+        "name": "Weekend Breakfast",
+        "description": "@RUFUS GRILL : Choice of Burn out Breakfast sausage, Scrambled Eggs, Tofu and Kale Scramble, Vegetarian Breakfast Sausage, Hash Brown Triangles, Waffles, Popcakes and French Toast",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697aa83e61d0f54cdfad6d3e",
+        "name": "Thai Spicy Seafood Soup",
+        "description": "@Lake Wok:  Thai Seafood Soup with Vegetable Fried Rice"
+      },
+      {
+        "_id": "697aa5f7f9f5653cd59bf8c3",
+        "name": "Breakfast For Dinner",
+        "description": "@Rufus: Protein Choice of Southern Style Breakfast Sausage(H), or Plant Based Southern Style Breakfast Sausage, Served with \nScrambled Eggs, French Toast Sticks, Breakfast Potatoes (Potatoes, Onions, Bell Peppers), and Toppings"
+      },
+      {
+        "_id": "697aa53e61d0f54cdfad6189",
+        "name": "Ceviche Bar (Plated)",
+        "description": "@Cascabel : Protein Choice of Shrimp Ceviche or Cauliflower, Heart Of Palm & Mushroom Ceviche Served with Tortilla Chips.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697aa1d6f9f5653cd59bc780",
+        "name": "Beijing Beef",
+        "description": "@Lake Wok : Choice of Beijing Beef or Beijing Fable Mushroom  with Sides of Steamed White Rice, Stir Fry Veggies, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a945761d0f54cdfacc582",
+        "name": "Pizza Night",
+        "description": "@Rufus : Pizza choice of BBQ Chicken Pizza, Margherita Pizza, Four Cheese Pizza and Additional Choice of Chili Flakes, Parmesan Cheese.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a91a2f9f5653cd59b40dc",
+        "name": "Pambazo Torta",
+        "description": "@CASCABEL: Protein choice of Chorizo Y Papas or Vegan Chorizo Y Papas, Served with  Refried Beans and Max's Artisan Telera Bread (Dipped In Guajillo Sauce) and toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a8c6e61d0f54cdfacb97c",
+        "name": "Black Cod Plate",
+        "description": "@Ciao: Choice of Baked Cod or Grilled King Oyster Mushroom.  Sides of Quinoa Couscous Tabbouleh, Arugula, Dried Cranberries, Red Wine Marinated Cherry Tomatoes, Lemon Vinaigrette."
+      },
+      {
+        "_id": "697a8a16f9f5653cd59b303d",
+        "name": "Honey Walnut Shrimp",
+        "description": "@Lake Wok : Choice of Honey Walnut Shrimp or Honey Walnut Crispy Tofu  with Sides of Steamed Brown Rice, Steamed Broccoli, Roasted Ginger Sweet Potatoes and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a886961d0f54cdfaca997",
+        "name": "Street Style Grilled Hot Dog",
+        "description": "@Rufus: Protein Choice of Street Style All Beef Grilled Hot Dog or Plant Based Grilled Sausage Served in Max's Artisan Hot Dog Bun, Grilled Onion & Bell Peppers, Thunder crunch Fries and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a8681f9f5653cd59b2467",
+        "name": "Pollo a la Brasa",
+        "description": "@Cascabel : Protein choice of Pollo a la Brasa or Mushrooms a la Brasa served with Thunder Crunch Fries and Toppings",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a857861d0f54cdfaca40f",
+        "name": "Creamy Butter Chicken",
+        "description": "@Ciao : Garlic Butter Naan, Protein Choice of Creamy Butter Chicken or Grilled Paneer Chana Masala. Comes With Toasted Jeera Rice, Gobi Stir Fry (Cauliflower, Carrots, Green Beans, Peas) and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a822df9f5653cd59b1dc0",
+        "name": "Tonkotsu Ramen (Plate)",
+        "description": "@Lake Wok : Protein Choice of Miso Pork Belly Ramen or Miso Shiitake Mushroom Ramen, with Sides of Yakisoba Noodle, Hardboiled Eggs, Bean Sprout, Green Onions, Seaweed Salad, Mushrooms, Roasted Corn.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a7f3df9f5653cd59b117f",
+        "name": "Wing Wednesday",
+        "description": "@Rufus: Protein Choice Buffalo Grilled Chicken Wings, BBQ CHicken WIngs or Crispy Plant Based Tenders, Served with Waffle Friess, celery and carrot sticks, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a7c4961d0f54cdfac9661",
+        "name": "Beef Birria Plate",
+        "description": "@Cascabel : Corn Tortilla. Protein Choice of Beef Machaca Beef Chuck or Fable Mushrooms BirriaServed with Sides of Spanish Rice Pilaf, Cumin Black Beans and Toppings.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/3130-2024_05_05_simple_beef_birria_1.jpg"
+      },
+      {
+        "_id": "697a78b061d0f54cdfac75c6",
+        "name": "Grilled Chicken Pesto Sandwhich (Plated)",
+        "description": "@Ciao: Protein Choice of Grilled Chicken Pesto Sandwich, or Grilled Plant Forward Pesto Sandwich.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a7799f9f5653cd59ae431",
+        "name": "Salmon Sushi Bake (Plated)",
+        "description": "@Lake Wok : Protein Choice of Salmon Sushi Bake (4oz) or Heart Of Palm Sushi Bake.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a750df9f5653cd59aaf95",
+        "name": "Southern Gumbo",
+        "description": "@RUFUS: Protein choice of Southern Sausage Chicken Gumbo or Southern King Trumpet Oyster Gumbo with sides of Steam Rice, Hush Puppies and Cajun Remoulada Sauce",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a744bf9f5653cd591357e",
+        "name": "Crispy Shell Tacos",
+        "description": "@CASCABEL :Protein Choice of Chipotle Lime Ground Beef or Chipotle Lime Plant Based Crumble on Crunchy Taco Shell with Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697a73aff9f5653cd59129d0",
+        "name": "Pizza",
+        "description": "@Ciao : Pizza Choice of Hawaiian Bacon, Ham, Pineapple Pizza, or Spinach & Artichoke Pizza, Four Cheese Pizza With Sides of Chili Flakes, Parmesan Cheese, Hot Honey, Chili Oil.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69796e37f9f5653cd5905fbf",
+        "name": "Grilled Teriyaki Chicken Bowl",
+        "description": "@Deux: Protein choice of Grilled Teriyaki Chicken or Plant Based Chicken Tenders Served with Sides of Steamed Rice, Stir Fry Vegetables(Red Onion, Red Bell Pepper, Green Bell Pepper, Cabbage) and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69796d4361d0f54cdfab53c0",
+        "name": "All Beef Burger",
+        "description": "@Rufus :Protein Choice of All Beef Patty or Plant Based Impossible Burger on Max's Artisan Burger Buns with Toppings and Waffle Fries as Side .",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69796bf661d0f54cdfab4870",
+        "name": "Honey Chipotle Chicken Bowl",
+        "description": "@Cascabel : Protein Choice of Honey Chipotle Chicken or Honey Chipotle Mushrooms Served with Sides of Cilantro Lime Rice, Black Beans, Corn Tortillas and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6979688761d0f54cdfab3d76",
+        "name": "Penne Arrabiata With Sausage",
+        "description": "@CIAO : Choice of Penne Arrabiata With Sausage (Pork), Gluten Free Penne Arrabiata With Sausage, or Penne Arrabiate With Plant Based Sausage. Comes with Max's Artisan Dinner Rolls, Steamed Broccoli, Parmesan Cheese and Chili Flakes",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978e0fa61d0f54cdf959b26",
+        "name": "Creamy Butter Chicken",
+        "description": "@LAKE WOK : Garlic Butter Naan, Protein Choice of Creamy Butter Chicken or Grilled Paneer Chana Masala (Allergen Free Upon Request). Comes With Toasted Jeera Rice, Gobi Stir Fry (Cauliflower, Carrots, Green Beans, Peas) and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978dff9f9f5653cd57f6ffd",
+        "name": "Pizza",
+        "description": "@Rufus : Pizza Choice of Meat Lovers Pizza or Veggie Lovers Pizza, Four Cheese Pizza With Sides of Chili Flakes, Parmesan Cheese, Hot Honey, Chili Oil.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978df2161d0f54cdf9589c7",
+        "name": "Carne Asada Tortas",
+        "description": "@Cascabel : Protein Choice of Carne Asada or Plant Based Impossible Asada, Served with Refried Beans, Max's Artisan Telera Bread and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978de10f9f5653cd57f673b",
+        "name": "Four Cheese Lasagna (Plated)",
+        "description": "@Ciao : Lasagna with Protein Choice of Four Cheese Lasagna, Served with Primavera Roasted Vegetables (Asparagus, broccoli, zucchini, squash, Bell Pepper, Onion).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978db81f9f5653cd57f4743",
+        "name": "Beef & Broccoli",
+        "description": "@LAKE WOK : Protein choice of Beef & Broccoli (Allergen Free Upon Request) or Plant Based Beef & Broccoli(4oz), with Steamed Brown Rice, Steamed Broccoli, Roasted Ginger Sweet Potatoes, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978dab9f9f5653cd57f42fd",
+        "name": "Market Style Shrimp Platter",
+        "description": "@Rufus : Choice of Market Style Shrimp or Market Style King Oyster Scallop Platter. Comes with Garlic Butter Toast."
+      },
+      {
+        "_id": "6978d81c61d0f54cdf955981",
+        "name": "Braised Beef Barbacoa",
+        "description": "@Cascabel : Protein Choice of Braised Beef Barbacoa or Braised Fable Barbacoa. Served with Sides of Spanish Red Rice Pilaf, Refried Beans and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978d506f9f5653cd57f2d0a",
+        "name": "Classic Clam Chowder Bread Bowl",
+        "description": "@Ciao : Classic Clam Chowder or Heart Of Palm Chowder (Allergen Free); Comes with Max's Artisan Bread Bowl.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978d29161d0f54cdf95445d",
+        "name": "Shrimp Pad Thai (Plate)",
+        "description": "@Lake Wok : Choice of Shrimp Pad Thai or Crispy Tofu Pad Thai, with Side of Crispy Vegetable Spring Roll and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978d03161d0f54cdf953279",
+        "name": "Mashed Potato Bowl",
+        "description": "@Rufus : Protein Choice of Popcorn Chicken Mashed Potato or Plant Based Popcorn Chicken Mashed Potato.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978ceaa61d0f54cdf9527d7",
+        "name": "Little Habana",
+        "description": "@Cascabel: Cubano Sandwhich (French Bread, Slow Braised Mojo Pork, Smoked Ham, Yellow Mustard, Dill Pickles, Swiss Cheese) with Ensalada De Palmito and Creamy Cilantro Dressing."
+      },
+      {
+        "_id": "697813490c580411034a5126",
+        "name": "Mediterranean Lamb Rice Bowl",
+        "description": "@Lake Wok : Protein Choice of Braised Meats Lamb Shoulder or Flakey Golden Spanakopita Served with Turmeric Yellow Rice, Sumac Spiced Potatoes and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697812060c580411034a4c04",
+        "name": "Blackened Salmon",
+        "description": "@Rufus: Protein Choice of Blackened Salmon or Blackened Cauliflower Steaks  with W/ Zesty Parsley Gremolata.  Served with Mashed Potatoes, Garlic Green Beans, and Steamed Broccoli",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6978103c0c580411034a429f",
+        "name": "Chicken Mole",
+        "description": "@Cascabel: Protein Choice of Chicken Thigh Mole or Plant Based Chicken Mole Served with Corn Tortillas, Spanish Rice and Refried Beans and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69780e5966a4abeeb9a81d05",
+        "name": "Chicken Marsala",
+        "description": "@Ciao: Protein Choice of Chicken Marsala or Plant Based Chicken Marsala served with Creamy Polenta"
+      },
+      {
+        "_id": "697680430c58041103440448",
+        "name": "Osso Bucco",
+        "description": "@Ciao : Protein Choice of Osso Bucco (Braised Beef Tomato Stew) and Creamy Polenta."
+      },
+      {
+        "_id": "69767f300c5804110343fbf6",
+        "name": "Lemon Garlic Greek Chicken",
+        "description": "@LAKE WOK: Protein Choice of Lemon Garlic Greek Chicken (4oz) or Mediterranean Stuffed Eggplant (4oz) with Garlic Butter Naan. Served with Za'atar Spiced Potatoes (Potatoes, Squash, Zucchini)  and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69767eb466a4abeeb9a6a03c",
+        "name": "All Beef Burger",
+        "description": "@Rufus :Protein Choice of All Beef Patty or Plant Based Impossible Burger on Max's Artisan Burger Buns with Toppings and Waffle Fries as Side .",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69767c6466a4abeeb9a675a9",
+        "name": "Pork Chili Verde",
+        "description": "@CASCABEL : Protein Choice of Pork Chile Verde (6oz) or Hongos Y Papas En Chile Verde (6oz). Comes with Toppings and sides of White Spanish Rice (4oz) and Refried Beans (4oz).",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69767a6d66a4abeeb9a65719",
+        "name": "Creamy Shrimp Alfredo Pasta",
+        "description": "@CIAO : Protein Choice of Creamy Shrimp Alfredo Pasta or Creamy Shiitake Alfredo Pasta with Sides of Steamed Broccoli, Parmesan Cheese, Chili Flakes and Max's Artisan Dinner Rolls."
+      },
+      {
+        "_id": "697678950c5804110343b09a",
+        "name": "Classic Pho (Plated )",
+        "description": "@Lake Wok : Protein Choice of Classic Beef Pho or Miso Mushroom Pho and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697677ec0c5804110343a978",
+        "name": "Loaded Tater Tots",
+        "description": "@Rufus: Mommas Three Bean Chili. With Sides of Crispy Golden Tater Tots, House Made Cheese Sauce and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697631360c580411034389ff",
+        "name": "Taco Tuesday  Street Style Carne Asada",
+        "description": "@Cascabel : Protein Choice of Street Style Carne Asada and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69762fe066a4abeeb9a61ab8",
+        "name": "Buddha Grain Bowl",
+        "description": "@Ciao : Protein Choice of Harissa Spiced Shrimp or Harissa Spiced Tofu, Sides of Lemon Quinoa & Brown Rice Pilaf, Sauteed Mushroom Medley, and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69762f6566a4abeeb9a615a8",
+        "name": "Char Siu Bao Bun  (Plated)",
+        "description": "@Lake Wok : Protein Choice of Char Siu Bao or Plant Based Marinated Char Siu Bao, on Bao Bun; Served with Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69762ef50c5804110343744a",
+        "name": "Blackened Salmon",
+        "description": "@Rufus: Protein Choice of Blackened Salmon (6oz) or Cauliflower Steaks w/Zesty Parsley Gremolata,  Sides of Creamy Polenta, Steamed Broccoli, Sautéed Swiss Chard.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69762a0466a4abeeb9a60bd5",
+        "name": "Ceviche Bar (Plated)",
+        "description": "@Cascabel : Protein Choice of Shrimp Ceviche or Cauliflower, Heart Of Palm & Mushroom Ceviche Served with Tortilla Chips.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "697628e70c58041103435f32",
+        "name": "Pizza",
+        "description": "@Ciao : Pizza Choice of BBQ Chicken Pizza or BBQ Mushroom Pizza, Four Cheese Pizza With Sides of Chili Flakes, Parmesan Cheese, Hot Honey, Chili Oil.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6976255966a4abeeb9a5e76c",
+        "name": "Miso Glazed Black Cod",
+        "description": "@Lake Wok: Protein Choice of Miso Ginger Black Cod or Miso Ginger Tofu Steaks, Sides of Crispy Vegetable Spring Roll, Steamed Basmati Rice , Garlic Green Beans and Toppings."
+      },
+      {
+        "_id": "697623060c58041103433da0",
+        "name": "BBQ Glazed Pork Ribs",
+        "description": "@Rufus - Choice of BBQ Glazed Pork Ribs or Plant Based Sausage, Served with Cowboy Beans, Sauteed Collard Greens, Northern Style Corn Bread W/ Honey.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "69761fb50c58041103432dd7",
+        "name": "Beef Picadillo",
+        "description": "@Cascabel:  Protein Choice of Beef Picadillo or Impossible Picadillo, with Sides of Fluffy Steamed Rice, Whole Tender Black Beans, Tostones, Corn Tortillas and Toppings."
+      },
+      {
+        "_id": "69761d580c58041103431df7",
+        "name": "Crispy Chicken Sandwhich",
+        "description": "@Ciao : Max's Artisan Burger Bun; Protein Choice of Crispy Chicken or Plant Based Crispy Chicken Sandwich and Toppings Bar.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "6961692077b727b0edb3528f",
+        "name": "Farm Fresh Eggs",
+        "description": "@Ciao: Choice of Sunny Side or Over Hard Eggs",
+        "imageUrl": "https://static.eagle.bigzpoon.com/61bd7ecd8c760e0011ac0fac/menuitem/2026-1/3809-oip.jpeg"
+      },
+      {
+        "_id": "69615a8251a912b2299ee92f",
+        "name": "Loaded Mac and Cheese",
+        "description": "@Ciao: Protein choice of Popcorn Chicken Mac & Cheese Bowl or  Plant Based Chicken Mac & Cheese Bowl. Served with Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "677edfd22ad23da919fdfabb",
+        "name": "Burrito Bowl",
+        "description": "@CASCABEL : Flour or Corn Tortillas, Protein choice of Pork Chorizo(4oz), Scrambled Eggs (4oz) or Refried Beans (Pinto or Black). Fiesta Vegetables(4oz), Home Fries (4oz) and Toppings.",
+        "imageUrl": ""
+      },
+      {
+        "_id": "62dae4016c04ea0010489fa0",
+        "name": "Pastry & Bars",
+        "description": "Choice of Pastries & Bars",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/7171-screen-shot-2022-07-22-at-40853-pm.png"
+      },
+      {
+        "_id": "62dae17e20967b0010eb8442",
+        "name": "Pastry (Gluten Free)",
+        "description": "Gluten Free Pastries",
+        "imageUrl": ""
+      },
+      {
+        "_id": "62dae2f420967b0010eb84ec",
+        "name": "Pastry (Vegan)",
+        "description": "Vegan Pastries",
+        "imageUrl": ""
+      },
+      {
+        "_id": "61e76ee19be79300147bec99",
+        "name": "Cereal",
+        "description": "Choice of Fruit Loops, Mini Wheats or Granola",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/1286-fruit-loops.jpg"
+      },
+      {
+        "_id": "61e88a659be79300147c2530",
+        "name": "Cream Cheese",
+        "description": "Cream Cheese",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/4810-cream-cheese.png"
+      },
+      {
+        "_id": "61e85afd9be79300147c16ba",
+        "name": "Cereal (Gluten Free)",
+        "description": "Gluten free Cereals",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/7833-cereal.png"
+      },
+      {
+        "_id": "61e88f3c9be79300147c26e5",
+        "name": "Drinks",
+        "description": "Choice of Hot Chocolate, Coffee, Decaf Coffee",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/5341-coffee.jpg"
+      },
+      {
+        "_id": "61e893f5a08afa00102047ad",
+        "name": "Tea",
+        "description": "Choice of Teas",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/9454-tea.jpg"
+      },
+      {
+        "_id": "61e8a9e19be79300147c2dfb",
+        "name": "Creamers",
+        "description": "Choice of Original, Hazelnut, and French Vanilla"
+      },
+      {
+        "_id": "61e898cba08afa00102048d2",
+        "name": "Milk",
+        "description": "Choice of Milk, Chocolate Milk, and 2%",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/2606-milk.png"
+      },
+      {
+        "_id": "61e89ab4a08afa001020495a",
+        "name": "Milk Alternative",
+        "description": "Choice of Soy Milk, Soy Chocolate Milk",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/7067-soy-milk.jpg"
+      },
+      {
+        "_id": "61e8ad1aa08afa0010204db1",
+        "name": "Sugar",
+        "description": "Choice of cane sugar, Equal, and Sweet Plus sweetners",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/6558-sugar.jpg"
+      },
+      {
+        "_id": "677edb2b5dd5cce9f2ae90a9",
+        "name": "Breakfast Plate",
+        "description": "@RUFUS GRILL : Protein Choice of Chef's SPecial, Scrambled Eggs, Biscuits & Country Gravy, Morning Star Patties. Sides of Sauteed Mushroom & Tomatoes Mindful,  Hash Brown Triangles, Hot Oatmeal and Hot Cream of Wheat",
+        "imageUrl": ""
+      },
+      {
+        "_id": "61e87db4a08afa0010203ffc",
+        "name": "Condiments",
+        "description": "Choice of  Peanut Butter, Fruit Jelly, Grape Jelly, Butter",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-1/9967-condiments.jpg"
+      },
+      {
+        "_id": "64dd34a462d9d9b7c433cd26",
+        "name": "Brownies",
+        "description": "PASTRY: Brownies"
+      },
+      {
+        "_id": "64dd33eaa426d060a1707052",
+        "name": "Bear Claws",
+        "description": "BREAKFAST: Bear Claws"
+      },
+      {
+        "_id": "64dd3224a426d060a170525f",
+        "name": "Maple Pecan Danish",
+        "description": "BREAKFAST: Maple Pecan Danish"
+      },
+      {
+        "_id": "64dd31a062d9d9b7c433864c",
+        "name": "Chocolate Cake",
+        "description": "PASTRY: Slice of Chocolate Cake"
+      },
+      {
+        "_id": "64dd2f49a426d060a17005db",
+        "name": "Strawberry Cheese Danish",
+        "description": "BREAKFAST: Strawberry Cheese Danish"
+      },
+      {
+        "_id": "64dd2cb4a426d060a16fbbaa",
+        "name": "German Chocolate",
+        "description": "PASTRY: Slice of German Chocolate Cake"
+      },
+      {
+        "_id": "64dd2b6e62d9d9b7c432de0b",
+        "name": "Assorted Bagels",
+        "description": "BREAKFAST: Choice of Bagels"
+      },
+      {
+        "_id": "64dd2a4462d9d9b7c432a652",
+        "name": "Carrot Cake",
+        "description": "PASTRY: Slice of Carrot Cake"
+      },
+      {
+        "_id": "64dd1ab162d9d9b7c43167f2",
+        "name": "Chocolate Croissant",
+        "description": "BREAKFAST: Chocolate Croissant"
+      },
+      {
+        "_id": "64dd1aae62d9d9b7c4316732",
+        "name": "Chocolate Croissant",
+        "description": "BREAKFAST: Chocolate Croissant"
+      },
+      {
+        "_id": "64dd18ad62d9d9b7c431330a",
+        "name": "Sugar Cookie",
+        "description": "PACIFIC COOKIE: Sugar Cookie"
+      },
+      {
+        "_id": "64dd17a762d9d9b7c4311a95",
+        "name": "Sugar Cookie",
+        "description": "PACIFIC COOKIE: Sugar Cookie"
+      },
+      {
+        "_id": "64dd16fba426d060a16dc044",
+        "name": "Red Velvet",
+        "description": "PASTRY: Slice of Red Velvet cake"
+      },
+      {
+        "_id": "64dc22fcf177dda1d2201645",
+        "name": "Oatmeal Raisin",
+        "description": "VEGAN OPTION: Oatmeal Raisin"
+      },
+      {
+        "_id": "64dc21c8f177dda1d21ff938",
+        "name": "Triple Chocolate",
+        "description": "PACIFIC COOKIE: Triple Chocolate Cookies"
+      },
+      {
+        "_id": "64dc2001be34b7a27ff793f0",
+        "name": "Cheesecake",
+        "description": "PASTRY: Slice of Cheesecake"
+      },
+      {
+        "_id": "64dc1e6abe34b7a27ff7694c",
+        "name": "Ham & Cheese Croissant / Cheese Croissant",
+        "description": "BREAKFAST:  Ham & Cheese Croissant / Cheese Croissant"
+      },
+      {
+        "_id": "64dc1b15f177dda1d21f2f46",
+        "name": "Cherry Pie",
+        "description": "VEGAN OPTION: Slice of Cherry Pie"
+      },
+      {
+        "_id": "64dc19aff177dda1d21ee59e",
+        "name": "Mint",
+        "description": "PACIFIC COOKIE: MInt Cookies"
+      },
+      {
+        "_id": "64dbcf51f177dda1d21a0242",
+        "name": "Cinnamon Rolls",
+        "description": "BREAKFAST: Cinnamon Rolls"
+      },
+      {
+        "_id": "64dbcdcbf177dda1d219d231",
+        "name": "Banana Muffin/Bread",
+        "description": "BREAKFAST: Banana Muffin/Bread"
+      },
+      {
+        "_id": "64dbc8cff177dda1d21970d1",
+        "name": "Lemon Drop",
+        "description": "VEGAN OPTION: Lemon Drop"
+      },
+      {
+        "_id": "64dbc7b9f177dda1d2195717",
+        "name": "Cahootz",
+        "description": "PACIFIC COOKIE: Cahootz Cookie"
+      },
+      {
+        "_id": "64dbc529f177dda1d21914a9",
+        "name": "Tuxedo Cake",
+        "description": "PASTRY: Slice of Tuxedo Layer Cake"
+      },
+      {
+        "_id": "64dab93bf177dda1d20aa685",
+        "name": "Blueberry Muffin",
+        "description": "BREAKFAST: Blueberry Muffin"
+      },
+      {
+        "_id": "64dab749f177dda1d20a7a24",
+        "name": "Mini Croisants",
+        "description": "BREAKFAST: Mini Croisants"
+      },
+      {
+        "_id": "64dab519f177dda1d20a4696",
+        "name": "Apple Pie",
+        "description": "VEGAN OPTION: Apple Pie"
+      },
+      {
+        "_id": "64dab2e8be34b7a27fe1e0c5",
+        "name": "Chocolate Chip",
+        "description": "PACIFIC COOKIE: Chocolate Chip Cookie"
+      },
+      {
+        "_id": "64dab2e1f177dda1d20a124f",
+        "name": "Chocolate Chip",
+        "description": "PACIFIC COOKIE: Chocolate Chip Cookie"
+      },
+      {
+        "_id": "64daae24be34b7a27fe1741c",
+        "name": "Assorted Muffins",
+        "description": "BREAKFAST: Choice of Muffins"
+      },
+      {
+        "_id": "64daaa36be34b7a27fe12375",
+        "name": "Assorted Scones",
+        "description": "BREAKFAST: Choice of Scones"
+      },
+      {
+        "_id": "677d9d8e2ad23da919f99db7",
+        "name": "Breakfast Plate",
+        "description": "@RUFUS GRILL : Protein Choice of Halal Chicken Links,Denver Scramble, Vegan Roasted Chickpeas and Vegetable Scramble  Mindful, Morning Star Patties. Sides of Breakfast Vegetables of the day Mindful,  Hash Brown Triangles, Hot Oatmeal, Hot Cream of Wheat",
+        "imageUrl": ""
+      },
+      {
+        "_id": "630d19140e957b00119a4b40",
+        "name": "CLICK HERE FOR The Pavilion Schedule",
+        "description": "The Pavilion iS OPEN for Breakfast, Lunch and Dinner. Here are the details.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-8/3688-screen-shot-2022-08-29-at-124958-pm.png"
+      },
+      {
+        "_id": "6963abfe51a912b229ab4d51",
+        "name": "Salad Bar - Mix Greens",
+        "description": "Choice of Lettuce Mix, Spinach Mix, Spring Mix, Power Greens Mix.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/2443-screen-shot-2022-07-22-at-35039-pm.png"
+      },
+      {
+        "_id": "6963abdb77b727b0edb929a5",
+        "name": "Composed Salad",
+        "description": "Choice of Caesar Salad, Street Corn Salad, Chicken & Pasta Salad, Harvest Chicken Salad, Greek Pasta Salad, Cucumber Salad.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/2961-screen-shot-2022-07-22-at-35242-pm.png"
+      },
+      {
+        "_id": "6963abb377b727b0edb92060",
+        "name": "Salad Toppings",
+        "description": "Choice of Diced Chicken, Sliced Cucumbers, Cherry Tomatoes, Shredded Carrots, Broccoli, Boiled Eggs, Beets, Edamame, Chickpea, Kidney Beans, Olives, Sliced Mushrooms, Roasted Corn, Croutons.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/6596-screen-shot-2022-07-22-at-35451-pm.png"
+      },
+      {
+        "_id": "6963a34c77b727b0edb8fe70",
+        "name": "Salad Dressings",
+        "description": "Choice of Green Goddess, Lemon Vinaigrette, Cream Honey Mustard, Caesar, Ranch, Balsamic Vinaigrette.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/2961-screen-shot-2022-07-22-at-35242-pm.png"
+      },
+      {
+        "_id": "6963a0a877b727b0edb8ef82",
+        "name": "Yogurt",
+        "description": "Organic Vanilla Yogurt, Greek Yogurt, Oat Milk Yogurt, Peach Yogurt, Strawberry Yogurt, Chia Pudding, Overnight Oats.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/6644-screen-shot-2022-07-22-at-40606-pm.png"
+      },
+      {
+        "_id": "6963a08877b727b0edb8ec0b",
+        "name": "Fruit",
+        "description": "Frozen Diced Mango, Frozen Strawberries, Frozen Blueberries, Whole Apples, Whole Bananas, Whole Oranges, Whole Pears.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/8020-screen-shot-2022-07-22-at-40435-pm.png"
+      },
+      {
+        "_id": "6963a06377b727b0edb8ea8e",
+        "name": "Toppings",
+        "description": "Chia Seeds, Sliced Almonds, Cranberries, Pumpkin Seeds, House-Made Granula, Chocolate Chips, M&M'S, Oreo Bites.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/8230-screen-shot-2022-07-22-at-35704-pm.png"
+      },
+      {
+        "_id": "69639a1677b727b0edb8cf2a",
+        "name": "Bagel Bar",
+        "description": "Plain Bagel, Blueberry Bagel, Cinnamon Raisin Bagel, Onion Bagel, Cream Cheese, Strawberry Cream Cheese , Butter Cups, Avocado Spread.",
+        "imageUrl": "https://static.eagle.bigzpoon.com/menuitem/2022-7/4811-screen-shot-2022-07-22-at-40725-pm.png"
+      }
+    ],
+    "location": {}
+  },
+  "nutritionServiceStatus": true
+}
